@@ -68,6 +68,8 @@ h1{
 .desc{
 	float: right;
 	width: 60%;
+	font-size: 14px;
+    line-height: 22px;
 }
 
 .button{
