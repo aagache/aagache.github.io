@@ -1,3 +1,3 @@
 Hello there!
 =================
-For more details > https://aagache.github.io/
+Small apps done then and now: https://aagache.github.io/
