@@ -100,5 +100,15 @@ h1{
 	background-color: #317037;
 }
 
+.button.disabled {
+	border-color: #c4c4c4;
+	color: #c4c4c4;
+}
+
+.button.disabled {
+	background-color: #fff;
+	cursor: not-allowed;
+}
+
 
 /* responsive */
